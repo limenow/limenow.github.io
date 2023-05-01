@@ -1,6 +1,6 @@
 ---
-title: Welcome to Solana
-teaser: These sample posts are provided as a template for creating your own content.
+title: Welcome to Hye Won-log
+teaser: This is about me!
 category: intro
 tags: [markdown, workflow, foss]
 reddit_post: 'https://www.reddit.com/r/Jekyll/comments/6258ln/welcome_to_solana/'
